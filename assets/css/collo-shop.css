@@ -2275,6 +2275,14 @@ responsive
   footer h4 {
     margin-top: 30px;
   }
+  #heading{
+    font-weight: bold;
+    font-size: 27px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  #we-are{
+    font-size: 30px;
+  }
 }
 
 
